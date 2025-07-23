@@ -22,10 +22,10 @@
   "homepage": "https://github.com/davixyz/phoenix#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
-    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-actions": "^9.0.8",
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.19",
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^9.0.18",
     "babel-loader": "^8.1.0",
     "lerna": "^8.2.3"
   },
